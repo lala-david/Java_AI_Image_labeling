@@ -21,6 +21,7 @@
 🔋 Explain 1
 
 ![image](https://user-images.githubusercontent.com/37481441/211370654-b87990d4-f4bb-47ea-9ec3-8f283986bdb2.png)
+
 HOST : IP
 PORT : PORT
 사용자이름 : USERNAME
@@ -34,6 +35,7 @@ PORT : PORT
 🔋 Explain 2
 
 ![image](https://user-images.githubusercontent.com/37481441/211371489-9dcf3394-1b80-456b-a7b8-7c988840fe83.png)
+
 MYSQL INSTALL -> AND MY Info DB Upload 
 
 
@@ -41,6 +43,7 @@ MYSQL INSTALL -> AND MY Info DB Upload
 🔋 Explain 3
 
 ![image](https://user-images.githubusercontent.com/37481441/211371733-84cf923b-2b9f-42f0-80f6-e58bbc76a756.png)
+
 Working Labeling Images Storage path Input
 
 
