@@ -17,6 +17,7 @@
     
     
     
+    
    
 🔋 Explain 1
 
@@ -32,11 +33,19 @@ PORT : PORT
 저장 : SAVE FILE MY LOCATION TO SERVER 
 
 
+
+
+
+
 🔋 Explain 2
 
 ![image](https://user-images.githubusercontent.com/37481441/211371489-9dcf3394-1b80-456b-a7b8-7c988840fe83.png)
 
 MYSQL INSTALL -> AND MY Info DB Upload 
+
+
+
+
 
 
 
@@ -47,9 +56,15 @@ MYSQL INSTALL -> AND MY Info DB Upload
 Working Labeling Images Storage path Input
 
 
+
+
+
+
 🔋 Explain 4
 
 ![image](https://user-images.githubusercontent.com/37481441/211372042-181729ad-863a-477f-9337-34a1ff5bf01a.png)
+
+
 정제 사유 추가하기 : Add refinement reason Input -> CSV RECOED
 삭제 : file delete 
 
